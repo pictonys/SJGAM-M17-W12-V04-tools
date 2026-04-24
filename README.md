@@ -94,11 +94,15 @@ Linux rk3126c 4.4.179 (sunchip@sunchip-PowerEdge-R740) (gcc version 6.3.1 201704
 
 ## Состояние Buildroot:
 
-Собран он 50/50, имеет ~100 файлов отборного китайского хлама.
+Собран он сносно, но и имеет ~100 файлов отборного китайского хлама.
 
 ## Состояние ядра:
 
-Собрано оно также, см. [deconfig](https://github.com/pictonys/SJGAM-M17/blob/main/Stock%20Kernel%20Deconfig%20(4.4.179)/M17_W12-V04_KERNEL_DECONFIG), вытащенный через extract-ikconfig.
+Собрано оно сносно.
+
+## Состояние древа:
+
+Собрано очень посредственно, см. [deconfig](https://github.com/pictonys/SJGAM-M17/blob/main/Stock%20Kernel%20Deconfig%20(4.4.179)/M17_W12-V04_KERNEL_DECONFIG), вытащенный через extract-ikconfig.
 
 ## Изменение работы стиков:
 
